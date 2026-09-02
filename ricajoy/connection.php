@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$db = "sis";
+$db = "demesa_db";
 
 $conn = new mysqli($host, $user, $pass, $db);
 
